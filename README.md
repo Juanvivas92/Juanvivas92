@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">JUAN VIVAS</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/juan-francisco-vivas-vivas-30bb19121/)">JUAN VIVAS</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/Wskj8cn.jpeg">
 
