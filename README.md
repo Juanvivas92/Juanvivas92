@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy 
+# 👋 ¡Hola! Soy JUAN VIVAS
 
 **Desarrollador Web** apasionado por crear experiencias digitales limpias, funcionales y accesibles.  
 Este es mi **portafolio personal**, donde muestro mis proyectos, habilidades y forma de trabajar.
